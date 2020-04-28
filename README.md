@@ -7,5 +7,5 @@ Beautifulsoup4 and SQLite3 to run.Install missing packages with pip3:
 
 # Running and Testing
 Run actors.py first if bolly.db hasn't been generated:
-'python3 crawler.py'
+' python3 actors.py '
 
