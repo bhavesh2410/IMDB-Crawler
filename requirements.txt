@@ -1,0 +1,7 @@
+
+# Note: this does not include arcgis, which needs to be installed manually when using virtualenv.
+# Use the following command: pip install arcgis --no-deps
+
+bs4==0.0.1
+sqlite3==3.31.1
+requests==2.22.0
